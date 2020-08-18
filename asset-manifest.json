@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Interview-App-React/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Interview-App-React/static/js/main.17d1fc1d.chunk.js",
-    "main.js.map": "/Interview-App-React/static/js/main.17d1fc1d.chunk.js.map",
+    "main.css": "/Interview-App-React/static/css/main.ca9a25e2.chunk.css",
+    "main.js": "/Interview-App-React/static/js/main.a19ba941.chunk.js",
+    "main.js.map": "/Interview-App-React/static/js/main.a19ba941.chunk.js.map",
     "runtime-main.js": "/Interview-App-React/static/js/runtime-main.579ca1cc.js",
     "runtime-main.js.map": "/Interview-App-React/static/js/runtime-main.579ca1cc.js.map",
-    "static/js/2.efea42fd.chunk.js": "/Interview-App-React/static/js/2.efea42fd.chunk.js",
-    "static/js/2.efea42fd.chunk.js.map": "/Interview-App-React/static/js/2.efea42fd.chunk.js.map",
+    "static/js/2.def4a1ee.chunk.js": "/Interview-App-React/static/js/2.def4a1ee.chunk.js",
+    "static/js/2.def4a1ee.chunk.js.map": "/Interview-App-React/static/js/2.def4a1ee.chunk.js.map",
     "index.html": "/Interview-App-React/index.html",
-    "precache-manifest.bb3df174d3faa8110c60ccf448a668d2.js": "/Interview-App-React/precache-manifest.bb3df174d3faa8110c60ccf448a668d2.js",
+    "precache-manifest.fb7070fd7f1af74d9838ead858f966a5.js": "/Interview-App-React/precache-manifest.fb7070fd7f1af74d9838ead858f966a5.js",
     "service-worker.js": "/Interview-App-React/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Interview-App-React/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.efea42fd.chunk.js.LICENSE.txt": "/Interview-App-React/static/js/2.efea42fd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Interview-App-React/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ca9a25e2.chunk.css.map": "/Interview-App-React/static/css/main.ca9a25e2.chunk.css.map",
+    "static/js/2.def4a1ee.chunk.js.LICENSE.txt": "/Interview-App-React/static/js/2.def4a1ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.579ca1cc.js",
-    "static/js/2.efea42fd.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.17d1fc1d.chunk.js"
+    "static/js/2.def4a1ee.chunk.js",
+    "static/css/main.ca9a25e2.chunk.css",
+    "static/js/main.a19ba941.chunk.js"
   ]
 }
