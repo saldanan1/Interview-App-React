@@ -1,0 +1,44 @@
+.Recipe-header {
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+.Recipe-name{
+    text-align: left;
+    color: black;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 30px;
+    font-weight: normal;
+    width: 100%;
+}
+.Recipe-description{
+    font-size: 20px;
+    padding-bottom: 60px;
+    display: flex;
+}
+.Right-text{
+    color: black;
+    flex: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.Left-image{
+    color: black;
+    float: left;
+    padding-left: 20%;
+    flex: 100%;
+}
+.Blog-image{
+    width: 100%;
+    height: auto;
+}
+.Recipe-image{
+    width: 100px;
+    height: 100px;
+}
+.Recipe-image-section{
+    align-items: center;
+}
