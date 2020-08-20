@@ -4,7 +4,7 @@ export const entries = [
       description: "A discord bot aimed at tracking 'ratings' or 'elo' in online seasonal competitions. This is a passion project that started as a discussion between users on a Magic the Gathering(MTG) Discord Server.\
       With the recent quarantine, people are unable to leave their homes to play MTG at their local card stores. With this, the MTG community has taken the online Discord Servers by storm.\
       They have created competitive enviornments where users play online, and then 'log' them with the help of a Discord Bot.\
-      Wins and losses raise and lower your online 'score' respectively.",
+      Wins and losses raise and lower your online 'score' respectively.yarn",
       link: [
         'https://noahsaldanadesign.com/img/Discord%20Bot.png',
         "https://noahsaldanadesign.com/img/Discord%20Bot2.png",
